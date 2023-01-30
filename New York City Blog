@@ -6,12 +6,13 @@
   <body>   
 <nav>
   <ul>
-    <li>Blog</li>
-    <li>Media</li>
-    <li>About</li>
-    <li><a href="" ></a></li>
+      <li><a href="#blog">Blog</a>
+    </li>
+    <li><a href="#media">Media
+    </a></li>
+    <li><a href="#about">About
+    </a></li>
   </ul>
-
 </nav>
 <header>
 
